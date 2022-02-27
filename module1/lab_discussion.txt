@@ -1,0 +1,22 @@
+Lab 1.1
+https://stcady.neocities.org/cityfarmer01.html
+The term placeholder referes to any area of a webpage that you want to reserve for a particular purpose. A webpage developer will
+often use text or image placeholders when designing webpages, expecially if actual content is not yet available. Using your
+favorite search engine, search to find three different reasons to use webpage placeholders.  
+
+Lab 1.2
+https://stcady.neocities.org/cycle01.html
+The term Call to Action (CTA) refers to anything that urges the reader of a webpage to take immediate action. The CTA on a webpage
+is often a button or hyperlink. Using your facorite search engine, identify five reasons you might use a CTA and then provide five
+techniques to drawing attention to your CTAs.
+
+Lab 2.1
+https://stcady.neocities.org/cityfarmer02.html
+What are the benefits of entering the wirefram HTML elements such as header, nav, <div id="main">, and footer before entering the
+textual content for the webpage?
+
+Lab 2.2
+https://stcady.neocities.org/cycle02.html
+It is easy to forget to check the spelling and grammar of your webpage content. But incorrectly spelled words as well as poor
+grammar can lead to negative impressions. What negative impressions might be creased if you forget to check the spelling and
+grammar of the content on the webpages that you create or maintain?
