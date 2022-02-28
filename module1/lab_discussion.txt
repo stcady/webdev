@@ -1,22 +1,74 @@
 Lab 1.1
 https://stcady.neocities.org/cityfarmer01.html
-The term placeholder referes to any area of a webpage that you want to reserve for a particular purpose. A webpage developer will
-often use text or image placeholders when designing webpages, expecially if actual content is not yet available. Using your
-favorite search engine, search to find three different reasons to use webpage placeholders.  
+
+Step 10 Answer:
+Using placeholders is central to the wireframing process when desinging the layout of a new webpage. Three main reasons to use webpage 
+placeholders are:
+    1. Using placeholders helps in setting up a structural design of the webpage. It allows the designer to determine where layout elements
+       should go before coding the layout. This also saves time in development so that the webpage framework (such as HTML or CSS) is not
+       being rewritten multiple times.
+    2. Using placeholders allows for the webpage developers to continue with development without being blocked due to missing content, such
+       as a missing image, mission statement, or platform logo.
+    3. Using placeholders helps to provide clear communication and visualization of the content or data that the clients need to provide.
+_________________________________________________________________________________________________________________________________________________
 
 Lab 1.2
 https://stcady.neocities.org/cycle01.html
-The term Call to Action (CTA) refers to anything that urges the reader of a webpage to take immediate action. The CTA on a webpage
-is often a button or hyperlink. Using your facorite search engine, identify five reasons you might use a CTA and then provide five
-techniques to drawing attention to your CTAs.
+
+Step 9 Answer:
+Five reasons for using a Call to Action (CTA) are:
+    1. A clear Call-to-Action results in a very effective and clear user experience. This results in reducing the user's confusion and any fatigue
+       experienced when using the website, thus making the user's experience and usage seamless. 
+    2. Call-to-Actions can help in growing an audience. For example, when the call-to-action is to follow a personal or corporate social media
+       account, website clients may then choose to follow that account for more regualr updates. This can establish a more personal connection
+       with the website client, which can then allow for more personalized marketing and potentially increase in sales.
+    3. Call-to-Actions help to lower webpage complexity by ensuring that each added piece of content is useful and assists in engaging with
+       the website client.
+    4. Call-to-Actions can provide a medium in which your website can gain more information about the user, such as subscriber form that
+       collects name, location, and email fields. Some of this info can then be used to get in contact with the user as a later time
+       or for more user security (eg. email confirmations and verifications).
+    5. Call-to-Actions can also provide leads to other websites and services that provide more information for the user or better assist the
+       user's needs. An example of this would be a lead to more product details or product reviews on an ecommerce website, which could help 
+       convince a user to purchase the product.
+Five techniques for drawing attention to CTAs are:
+    1. Using good word choice to clearly and precisley communicate the CTA.
+    2. Creating a sense of urgency can help to convince the user to complete the CTA more quickly (rather than later when they are likely to forget).
+    3. Crating low risk of commitment CTAs (eg. user does not need to provide person information to get what they need) allows the user to be more
+       comfortable and trusing of the website. 
+    4. Using color and layout can help to draw the user's attention to the CTA.
+    5. Using images to also help draw the user's attention to the CTA.
+_________________________________________________________________________________________________________________________________________________
 
 Lab 2.1
 https://stcady.neocities.org/cityfarmer02.html
-What are the benefits of entering the wirefram HTML elements such as header, nav, <div id="main">, and footer before entering the
-textual content for the webpage?
+
+Step 10 Answer:
+The benefits of entering the wireframe HTML elements such as header, nav, <div id="main">, and footer before entering the textual content for
+the webpage is that these elements provide a cohesive structural design and framework for the webpage and for multiple webpages on a single
+website. By consistently using these wireframe elements across all webpages on the website it creates a seamless user experience, which is
+important when reducing user confusion and navigation fatigue. Also, these wireframe elements are used in other websites as well, which
+results in the user having familiarity with your website even if they have not visited it before. Lastly, it is beneficial to use the wireframe
+HTML elements because they help segment sections of the code into distinct tags, which assists with overall code readability and when making
+changes and feature additions to the website's code.
+_________________________________________________________________________________________________________________________________________________
 
 Lab 2.2
 https://stcady.neocities.org/cycle02.html
-It is easy to forget to check the spelling and grammar of your webpage content. But incorrectly spelled words as well as poor
-grammar can lead to negative impressions. What negative impressions might be creased if you forget to check the spelling and
-grammar of the content on the webpages that you create or maintain?
+
+Step 10 Answer:
+Some of the negative impressions that users might get are:
+    * A sense of unreliability for both the website and the person or company's brand, hence huring credibility.
+    * Communication to the user can be diminished by poor spelling and grammar, which increases user confusion and frustration. This can then
+      result in the user being unable to perform the desired Call-to-Actions.
+
+_________________________________________________________________________________________________________________________________________________
+
+References
+
+Cao, J. (2016, June 28). How to create useful wireframes. Treehouse Blog. Retrieved February 28, 2022, from https://blog.teamtreehouse.com/how-to-design-a-useful-wireframe
+
+Mineo, G. (2021, February 16). The 8 types of ctas you need to have on your website. HubSpot Blog. Retrieved February 28, 2022, from https://blog.hubspot.com/marketing/8-types-ctas-website-list
+
+Ottley, B. (2019, October 28). 5 tips to create the best CTA button design. Cazbah. Retrieved February 28, 2022, from https://www.cazbah.net/call-to-action-button-design/
+
+Pereira, D. (2021, October 1). What's a call-to-action (CTA) and its benefits? Creative MMS. Retrieved February 28, 2022, from https://creativemms.com/blog/call-action-cta-benefits/
