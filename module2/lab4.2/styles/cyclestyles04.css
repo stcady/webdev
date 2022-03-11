@@ -1,0 +1,30 @@
+/* Steven Cady - 03/11/2022 */
+
+body {
+    color: #000000;
+    background-color: #FF9900;
+    font-family: "Calibri", sans-serif;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+#wrapper {
+    width: 80%;
+    margin: 0 auto 0 auto;
+}
+
+.floatright {
+    float: right;
+    margin-left: 2%;
+}
+
+.floatleft {
+    float: left;
+    margin-right: 2%;
+}
+
+.boldtext, dt {
+    font-weight: bold;
+}
