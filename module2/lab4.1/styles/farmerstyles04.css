@@ -1,0 +1,41 @@
+/* Steven Cady - 03/11/2022 */
+
+body {
+    color: #000000;
+    background-color: #bbd1eb;
+    font-family: "Times New Roman", serif;
+}
+
+footer {
+    font-size: 0.75em;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#outerwrapper {
+    width: 70%;
+    margin: 0 auto 0 auto;
+}
+
+#main {
+    background-color: #c5a98b;
+    padding: 10px;
+    clear: both;
+}
+
+#main, footer {
+    clear: both;
+}
+
+.floatleft {
+    float: left;
+    margin-right: 3%;
+}
+
+.floatright {
+    float: right;
+    margin-left: 3%;
+}
