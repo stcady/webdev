@@ -120,6 +120,15 @@ aside {
 	padding: 1em;
 }
 
+/* Hide the aside placement for tablets */
+.tablet {
+	display: none;
+}
+
+.default {
+	display: inline;
+}
+
 /* Style for tablet media */
 @media only screen and (min-width: 481px) {
 
@@ -182,6 +191,16 @@ aside {
 		background-color: #FFFFFF;
 		box-shadow: 1em 1em 1em #000000;
 		border-radius: 8em;
+	}
+
+	/* Show the tablet specific aside */
+	.tablet {
+		display: inline;
+	}
+
+	/* Hide the default aside layout */
+	.default {
+		display: none;
 	}
 }
 
@@ -255,5 +274,15 @@ aside {
 		width: 25%;
 		background-color: #FF6600;
 		color: #FFFFFF;
+	}
+
+	/* Show the tablet specific aside */
+	.tablet {
+		display: none;
+	}
+
+	/* Hide the default aside layout */
+	.default {
+		display: inline;
 	}
 }
