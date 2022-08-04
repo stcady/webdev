@@ -1,0 +1,9 @@
+Steven Cady
+
+Link to HTML: https://stcady.neocities.org/module6lab1/index.html
+
+The Hello World component no longer renders because the JSX script block does not have a reference transformer library that specifies that the script block is JSX and then needs to be compiled to JavaScript. Without either the type attribute or the compiler the script block will not be compiled from JSX to JavaScript. Hence it does not get compiled and thus does not render and result in console errors.
+
+Added a class to the h1 element in JSX by specifying the className=“helloHeader” and the specifying a style in the head element.
+
+The non-minified version of React enables more detailed warning and error messages, whereas the minified version shortens them.
