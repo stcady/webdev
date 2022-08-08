@@ -1,0 +1,15 @@
+Steven Cady
+Module 7 Assignment
+
+Lab Code: https://stcady.neocities.org/module7lab1/index.html
+
+The JSX code in App.jsx was compiled into JavaScript code. The JSX shorthand for creating a component has been converted into the React.createElement() function call.
+
+The --save-dev command input parameter was used when installing babel-cli because when compiling the development code into deployable pre-build production code to enable the production application to run without the need for the babel-cli installation in the production environment.
+
+babel <input directory> --presets <transformation library> --out-dir <output directory>
+1. The first input parameter "src" is the input directory that contins the JSX code files to be compiled to JS.
+2. The presets input parameter "react" specifies to use the React transformation libraries.
+3. The out-dir input parameter "static" is the output directory that will contain the output JS file after compilation.
+
+We will use the es2015 transform.
