@@ -1,0 +1,21 @@
+Steven Cady
+Module 8 Assignment
+
+Lab Code: https://stcady.neocities.org/module8lab1/index.html
+
+Exercise: React Classes
+1. The compilation from JSX to JS failed. This is because the render function can only return one element, hence only one set of div tags. Removing the second set or nesting the div tags will work.
+2. Both React and JS errors are displayed in the browser’s console, but the JS errors are code from the compiled JS code and not the original JSX code.
+
+Exercise: Passing Data
+1. Because JSX does not interpret the attribute the same way as HTML. The border attribute is not supported by JSX, as a result the border is no longer displayed.
+2. The outer braces specify it is a JS expression, and the inner braces specify the value of the attribute.
+3. The braces in React are analogous to the <?php ?> regular expression enclosures. The only difference is that inside the JSX braces only JS syntax and loops are written outside of the JSX code and are written in regular JS.
+4. Props are useful when passing simple data or when multiple components are being passed, whereas children are useful when passing deeply nested components.
+
+Exercise: Dynamic Composition
+1. Since React is top-down only in passing data from parent components to children, it is best to pass the data in the IssueList because all other child components of IssueList can then have access to the data.
+2. React throws a warning when the key property is not provided when constructing the array. This is because when constructing an array React uses the unique key value to identify elements in the array.
+3. Any uniquely identifying value of the object stored in the array could work in identifying the row, but it may require re-rendering the entire table if the value specified is not unique, which is inefficient. It is best to use the array index as the key value so that components are not re-rendered by React, and array indices can guarantee uniqueness.
+4. Passing the entire issue object is a lot more concise compared to passing every field. If there are a lot of field this could be confusing, especially if only a small number are being used (maybe 1 or 2). In this case it might be clearer to pass the fields only.
+5. It works because inside the braces it is being interpreted as JS syntax, but either way we are compiling the JSX code as JS using babel, so it would still get interpreted as JS.
